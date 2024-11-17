@@ -4,3 +4,7 @@
 body {
     display: flex;
 }
+
+.left {
+    background-image: url("/Users/dele/Documents/Programming/odin-project-repos/signUpForm/background.jpg");
+}
