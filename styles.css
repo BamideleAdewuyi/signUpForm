@@ -15,8 +15,9 @@ body {
 .left {
     display: flex;
     flex-direction: column;
-    width: 45%;
+    width: 50%;
     background-image: url("/Users/dele/Documents/Programming/odin-project-repos/signUpForm/background.jpg");
+    background-size: cover;
 }
 
 .logo {
