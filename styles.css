@@ -24,6 +24,7 @@ body {
 
 .logoDiv {
     display: flex;
+    flex-wrap: wrap;
     background-color: black;
     width: 100%;
     height: 30px;
