@@ -1,5 +1,9 @@
 @import url('https://fonts.cdnfonts.com/css/norse');
 
+:root {
+    --mainFont: Arial, Helvetica, sans-serif;
+}
+
 #odinNorse {
     display: flex;
     align-items: center;
@@ -69,7 +73,7 @@ footer {
 .promoLine {
     margin-top: 150px;
     margin-left: 50px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: var(--mainFont);
     font-weight: 550;
     font-size: 25px;
     width: 80%;
