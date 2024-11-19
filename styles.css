@@ -80,6 +80,10 @@ footer {
     width: 80%;
 }
 
+.inputs {
+    display: flex;
+}
+
 .submit {
     background-color: #f0f5f5;
 }
