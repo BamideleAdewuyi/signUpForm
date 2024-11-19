@@ -61,3 +61,7 @@ footer {
     display: flex;
     flex-direction: column;
 }
+
+.top {
+    height: 30%;
+}
