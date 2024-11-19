@@ -80,6 +80,11 @@ footer {
     width: 80%;
 }
 
+.formDiv {
+    outline: 3px solid lightblue;
+    height: 65%;
+}
+
 .inputs {
     display: flex;
 }
