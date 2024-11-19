@@ -82,6 +82,7 @@ footer {
 
 .formDiv {
     outline: 3px solid lightblue;
+    display: flex;
     height: 65%;
 }
 
