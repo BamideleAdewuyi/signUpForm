@@ -88,6 +88,7 @@ footer {
 
 .inputs {
     display: flex;
+    height: 50%;
 }
 
 .submit {
