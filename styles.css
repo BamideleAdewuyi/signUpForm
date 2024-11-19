@@ -1,3 +1,9 @@
+@import url('https://fonts.cdnfonts.com/css/norse');
+
+#odinNorse {
+    font-family: 'Norse', sans-serif;
+}
+
 * {
     outline: 1px solid red;
     padding: 0;
