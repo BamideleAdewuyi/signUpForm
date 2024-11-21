@@ -98,6 +98,11 @@ footer {
     display: flex;
 }
 
+.column {
+    display: flex;
+    flex-direction: column;
+}
+
 .submit {
     background-color: #f0f5f5;
     height: 100%;
