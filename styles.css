@@ -94,9 +94,9 @@ footer {
     flex-direction: column;
 }
 
-.leftInputs {
-    display: flex;
-    flex-direction: column;
+.column {
+    float: left;
+    width: 50%;
 }
 
 .submit {
