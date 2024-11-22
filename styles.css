@@ -105,6 +105,9 @@ label {
     margin-top: 20px;
 }
 
+input {
+    width: 300px;
+}
 button,.login {
     margin-left: 20px;
 }
