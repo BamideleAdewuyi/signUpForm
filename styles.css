@@ -141,6 +141,11 @@ button {
     font-family: var(--mainFont);
 }
 
+#login {
+    color: #596D48;
+    text-decoration: none;
+}
+
 #rightColumn {
     position: relative;
     left: 5em;
