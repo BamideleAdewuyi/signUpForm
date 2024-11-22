@@ -82,16 +82,13 @@ footer {
 }
 
 .formDiv {
-    display: flex;
     height: 65%;
 }
 
 .inputs {
-    display: flex;
     margin-top: 20px;
     margin-left: 20px;
-    height: 50%;
-    flex-direction: column;
+    height: 50%;    
 }
 
 .columns {
