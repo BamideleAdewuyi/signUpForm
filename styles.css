@@ -118,6 +118,9 @@ button,.login {
     margin-left: 20px;
 }
 
+button {
+    margin-top: 30px;
+}
 #rightColumn {
     position: relative;
     left: 5em;
@@ -126,5 +129,4 @@ button,.login {
 .submit {
     background-color: #f0f5f5;
     height: auto;
-    outline: 2px solid purple;
 }
