@@ -88,6 +88,7 @@ footer {
 .inputs {
     margin-top: 20px;
     margin-left: 20px;
+    margin-bottom: 30px;
     height: 50%;    
 }
 
@@ -98,6 +99,10 @@ footer {
 .column {
     display: flex;
     flex-direction: column;
+}
+
+label {
+    margin-top: 20px;
 }
 
 .submit {
