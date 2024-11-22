@@ -93,9 +93,11 @@ h1 {
 
 .inputs {
     margin-top: 20px;
-    margin-left: 20px;
-    margin-bottom: 30px;
+    padding-left: 20px;
+    padding-bottom: 30px;
     box-shadow: 0 4px 2px -2px gray;
+    position: relative;
+    z-index: 10;
 }
 
 .columns {
