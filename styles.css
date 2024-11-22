@@ -87,11 +87,10 @@ h1 {
 }
 
 .formDiv {
-    
+    background-color: white;
 }
 
 .inputs {
-    background-color: white;
     margin-top: 20px;
     margin-left: 20px;
     margin-bottom: 30px;
