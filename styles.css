@@ -71,6 +71,7 @@ footer {
 .top {
     height: 35%;
     background-color: #f0f5f5;
+    box-shadow: 0 4px 2px -2px gray;
 }
 
 .promoLine {
@@ -91,9 +92,9 @@ h1 {
 }
 
 .inputs {
-    /* padding-top: 20px;
-    padding-left: 20px;
-    padding-bottom: 30px; */
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 30px;
     box-shadow: 0 4px 2px -2px gray;
 }
 
