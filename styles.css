@@ -24,6 +24,7 @@ body {
     flex-direction: row;
     width: 100vw;
     height: 100vh;
+    background-color: #f0f5f5;
 }
 
 .left {
@@ -90,6 +91,7 @@ h1 {
 }
 
 .inputs {
+    background-color: white;
     margin-top: 20px;
     margin-left: 20px;
     margin-bottom: 30px;
