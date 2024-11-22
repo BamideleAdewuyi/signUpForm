@@ -108,8 +108,14 @@ label {
 input {
     width: 300px;
 }
+
 button,.login {
     margin-left: 20px;
+}
+
+#rightColumn {
+    position: relative;
+    left: 5em;
 }
 
 .submit {
