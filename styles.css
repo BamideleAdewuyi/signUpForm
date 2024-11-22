@@ -103,6 +103,7 @@ footer {
 
 label {
     margin-top: 20px;
+    font-family: var(--mainFont);
 }
 
 input {
