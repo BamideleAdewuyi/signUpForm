@@ -162,5 +162,6 @@ button {
 }
 
 input:focus {
-    border: 1px solid blue;
+    outline: 1px solid blue;
+    box-shadow: 4px 4px 5px -2px gray;
 }
