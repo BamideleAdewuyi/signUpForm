@@ -137,6 +137,10 @@ button {
     border: none;
 }
 
+.login {
+    font-family: var(--mainFont);
+}
+
 #rightColumn {
     position: relative;
     left: 5em;
