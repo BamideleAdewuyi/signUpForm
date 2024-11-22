@@ -88,13 +88,13 @@ h1 {
 
 .formDiv {
     background-color: white;
-    /* box-shadow: 0 4px 2px -2px gray; */
 }
 
 .inputs {
-    padding-top: 20px;
+    /* padding-top: 20px;
     padding-left: 20px;
-    padding-bottom: 30px;
+    padding-bottom: 30px; */
+    box-shadow: 0 4px 2px -2px gray;
 }
 
 .columns {
