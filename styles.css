@@ -126,6 +126,7 @@ button {
     color: white;
     font-weight: 700;
     width: 250px;
+    height: 40px;
 }
 
 #rightColumn {
